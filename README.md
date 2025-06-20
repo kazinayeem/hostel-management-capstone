@@ -40,4 +40,4 @@ The system helps manage hostel-related operations such as student registration, 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/hostel-management-system.git
+   git clone https://github.com/kazinayeem/hostel-management-capstone.git
