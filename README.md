@@ -1,4 +1,6 @@
 # 🏨 Hostel Management System
+![Cover Image](screenshots/cover.png)
+
 # Video Demo
 
 👉 **[Click here to watch the demo video](https://youtu.be/NdH-h84pFfU)**
