@@ -1,4 +1,7 @@
 # 🏨 Hostel Management System
+# Video Demo
+
+👉 **[Click here to watch the demo video](https://youtu.be/NdH-h84pFfU)**
 
 ### 📚 Course: Software Development Capstone Project (SE133 - H2)
 ### 🏫 Department of Software Engineering
