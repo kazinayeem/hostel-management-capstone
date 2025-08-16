@@ -15,7 +15,7 @@
 
 | Name | Student ID |
 |---|---|
-| Mohammad Ali Nayeem | 242-35-022 |
+| Mohammad Ali Nayeem | 232-35-022 |
 | Emtiaz Hossain | 242-35-744 |
 | Arpita Barmon | 242-35-794 |
 | Jahid Hossain | 242-35-142 |
